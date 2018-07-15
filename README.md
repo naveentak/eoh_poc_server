@@ -9,7 +9,7 @@
 # clone project
 git clone https://github.com/naveentak/eoh_poc_server.git
 # run container
-docker-compose up
+docker-compose up -d
 
 # install newman (for testing)
 npm install -g newman
