@@ -2,7 +2,8 @@ version: "2"
 services:
   nodeappserver:
     container_name: appserver
-    image: eohppserverimage01
+    #image: eohppserverimage01
+    build: .
     ports:
       - "9090:9090"
     links:
