@@ -8,6 +8,8 @@
 
 # clone project
 git clone https://github.com/naveentak/eoh_poc_server.git
+# cd to eoh_poc_server
+cd eoh_poc_server
 # run container
 docker-compose up -d
 
