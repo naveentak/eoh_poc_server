@@ -1,6 +1,6 @@
 # node_express_server
 
-> A Vue.js project
+> A nodejs and express project
 
 ## Build Setup
 
